@@ -1,0 +1,3 @@
+/home/amir/Bureau/MSE/Crypto Légère/lighweight-Crypto/present-encryption/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/amir/Bureau/MSE/Crypto Légère/lighweight-Crypto/present-encryption/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amir/Bureau/MSE/Crypto Légère/lighweight-Crypto/present-encryption/cmake-build-debug/CMakeFiles/present_encryption.dir

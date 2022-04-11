@@ -1,0 +1,17 @@
+# ninja log v5
+0	74	1649712388296448040	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+75	114	1649712388333114710	present_encryption	98d7dac03d826eb3
+0	129	1649712665246467108	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+0	64	1649712946806486496	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+0	49	1649713074279828604	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+0	49	1649713148943167079	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+49	90	1649713148986500416	present_encryption	98d7dac03d826eb3
+0	69	1649713208253171164	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+69	114	1649713208299837834	present_encryption	98d7dac03d826eb3
+0	48	1649713285479843148	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+0	50	1649713382913183188	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+1	49	1649713589199864055	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+0	56	1649714525726595407	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+56	96	1649714525766595410	present_encryption	98d7dac03d826eb3
+0	56	1649714547603263586	CMakeFiles/present_encryption.dir/main.c.o	956b400134b9399d
+56	97	1649714547643263589	present_encryption	98d7dac03d826eb3
